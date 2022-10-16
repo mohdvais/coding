@@ -46,6 +46,21 @@ int main() {
     }
 }
 
+/***
+//intersection
+for(int i=0;i<n1;i++)
+{
+    for(int j=0;j<n2;j++)
+    {
+        //present in both
+        if(arr[i] == arr2[j])
+        {
+            cout<<arr1[i]<<" ";
+        }
+    }
+}
+***/
+
 /***output
 5
 2 3 9 18 5
